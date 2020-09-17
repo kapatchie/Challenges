@@ -1,0 +1,6 @@
+C:\Users\Lunartech\source\repos\Perfectly balanced\bin\Debug\Perfectly balanced.exe.config
+C:\Users\Lunartech\source\repos\Perfectly balanced\bin\Debug\Perfectly balanced.exe
+C:\Users\Lunartech\source\repos\Perfectly balanced\bin\Debug\Perfectly balanced.pdb
+C:\Users\Lunartech\source\repos\Perfectly balanced\obj\Debug\Perfectly balanced.csprojAssemblyReference.cache
+C:\Users\Lunartech\source\repos\Perfectly balanced\obj\Debug\Perfectly balanced.exe
+C:\Users\Lunartech\source\repos\Perfectly balanced\obj\Debug\Perfectly balanced.pdb

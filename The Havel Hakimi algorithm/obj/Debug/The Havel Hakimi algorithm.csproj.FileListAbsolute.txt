@@ -1,0 +1,6 @@
+C:\Users\Lunartech\source\repos\The Havel Hakimi algorithm\bin\Debug\The Havel Hakimi algorithm.exe.config
+C:\Users\Lunartech\source\repos\The Havel Hakimi algorithm\bin\Debug\The Havel Hakimi algorithm.exe
+C:\Users\Lunartech\source\repos\The Havel Hakimi algorithm\bin\Debug\The Havel Hakimi algorithm.pdb
+C:\Users\Lunartech\source\repos\The Havel Hakimi algorithm\obj\Debug\The Havel Hakimi algorithm.csprojAssemblyReference.cache
+C:\Users\Lunartech\source\repos\The Havel Hakimi algorithm\obj\Debug\The Havel Hakimi algorithm.exe
+C:\Users\Lunartech\source\repos\The Havel Hakimi algorithm\obj\Debug\The Havel Hakimi algorithm.pdb

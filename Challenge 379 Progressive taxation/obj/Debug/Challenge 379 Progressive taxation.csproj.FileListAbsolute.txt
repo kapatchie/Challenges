@@ -1,0 +1,6 @@
+C:\Users\Lunartech\source\repos\Challenge 379 Progressive taxation\bin\Debug\Challenge 379 Progressive taxation.exe.config
+C:\Users\Lunartech\source\repos\Challenge 379 Progressive taxation\bin\Debug\Challenge 379 Progressive taxation.exe
+C:\Users\Lunartech\source\repos\Challenge 379 Progressive taxation\bin\Debug\Challenge 379 Progressive taxation.pdb
+C:\Users\Lunartech\source\repos\Challenge 379 Progressive taxation\obj\Debug\Challenge 379 Progressive taxation.csprojAssemblyReference.cache
+C:\Users\Lunartech\source\repos\Challenge 379 Progressive taxation\obj\Debug\Challenge 379 Progressive taxation.exe
+C:\Users\Lunartech\source\repos\Challenge 379 Progressive taxation\obj\Debug\Challenge 379 Progressive taxation.pdb

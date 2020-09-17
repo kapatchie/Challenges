@@ -1,0 +1,6 @@
+C:\Users\Lunartech\source\repos\Yahtzee Upper Section Scoring\bin\Debug\Yahtzee Upper Section Scoring.exe.config
+C:\Users\Lunartech\source\repos\Yahtzee Upper Section Scoring\bin\Debug\Yahtzee Upper Section Scoring.exe
+C:\Users\Lunartech\source\repos\Yahtzee Upper Section Scoring\bin\Debug\Yahtzee Upper Section Scoring.pdb
+C:\Users\Lunartech\source\repos\Yahtzee Upper Section Scoring\obj\Debug\Yahtzee Upper Section Scoring.csprojAssemblyReference.cache
+C:\Users\Lunartech\source\repos\Yahtzee Upper Section Scoring\obj\Debug\Yahtzee Upper Section Scoring.exe
+C:\Users\Lunartech\source\repos\Yahtzee Upper Section Scoring\obj\Debug\Yahtzee Upper Section Scoring.pdb

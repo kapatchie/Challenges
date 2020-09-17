@@ -1,0 +1,6 @@
+C:\Users\Lunartech\source\repos\leetcodeChallange\obj\Debug\leetcodeChallange.csprojAssemblyReference.cache
+C:\Users\Lunartech\source\repos\leetcodeChallange\bin\Debug\leetcodeChallange.exe.config
+C:\Users\Lunartech\source\repos\leetcodeChallange\bin\Debug\leetcodeChallange.exe
+C:\Users\Lunartech\source\repos\leetcodeChallange\bin\Debug\leetcodeChallange.pdb
+C:\Users\Lunartech\source\repos\leetcodeChallange\obj\Debug\leetcodeChallange.exe
+C:\Users\Lunartech\source\repos\leetcodeChallange\obj\Debug\leetcodeChallange.pdb
